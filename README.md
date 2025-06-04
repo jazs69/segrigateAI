@@ -84,17 +84,6 @@ flowchart TD
     python scripts/convert_tflite.py
     ```
 
----
-
-## 🤖 Deployment Ideas
-
-- Deploy on a Raspberry Pi with a camera for real-time classification
-- Use ESP32-CAM module with TensorFlow Lite model
-- Integrate with IoT dashboard for bin status monitoring
-- Gamify waste disposal with a reward system
-
----
-
 ## 🙌 Contributing
 
 We welcome contributions from everyone! Here’s how you can help:
