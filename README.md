@@ -7,7 +7,7 @@ An intelligent waste classification model built with Computer Vision and TensorF
 ## 📌 Features
 
 - 🧠 AI-based image classification of waste
-- 🚮 Categorizes waste into: `plastic`, `metal`, `organic`, `ewaste`
+- 🚮 Categorizes waste into: `plastic`, `paper`, `metal`, `organic`, `ewaste`
 - ⚙️ Converts model to TensorFlow Lite for edge device deployment
 - 📊 Integrates with IoT systems for smart bin management
 - 🌐 Easily extendable to real-time camera feed, mobile apps, or embedded systems
